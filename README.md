@@ -20,10 +20,4 @@ I aim to:
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohithgkh)
 - 🧠 [Gihub](https://github.com/mohith0407)
 ---
-### 📅 Weekly readme.md file template
-
-### 🧩 Day 1
-- **Problem:** [Problem Link]()  
-- **Discuss:** [Discuss Link]()
----
 ⭐ If you like this idea, drop a **star** and follow my journey!
