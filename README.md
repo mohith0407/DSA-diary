@@ -1,11 +1,7 @@
 # DSA-diary
 Every day, I solve at least one DSA problem — building consistency, logic, and mastery.
 <br>
->“Little progress each day adds up to big results.” 
-<br>
-Also check my [LinkedIn](www.linkedin.com/in/mohithgkh) posts for updates
-<br>
-
+>“Little progress each day adds up to big results.”
 ---
 # My Goal
 
@@ -19,5 +15,15 @@ I aim to:
 ## 💻 Repository Stats
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mohith0407/DSA-diary)
-
+--- 
+## 🔗 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohithgkh)
+- 🧠 [Gihub](https://github.com/mohith0407)
 ---
+### 📅 Weekly readme.md file template
+
+### 🧩 Day 1
+- **Problem:** [Problem Link]()  
+- **Discuss:** [Discuss Link]()
+---
+⭐ If you like this idea, drop a **star** and follow my journey!
