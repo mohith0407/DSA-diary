@@ -3,7 +3,7 @@ Every day, I solve at least one DSA problem — building consistency, logic, and
 <br>
 >“Little progress each day adds up to big results.” 
 <br>
-Also check my [LinkedIn](https://www.linkedin.com/in/mohith-hanumanthkar-0407raj). posts for updates
+Also check my [LinkedIn](www.linkedin.com/in/mohithgkh) posts for updates
 <br>
 
 ---
